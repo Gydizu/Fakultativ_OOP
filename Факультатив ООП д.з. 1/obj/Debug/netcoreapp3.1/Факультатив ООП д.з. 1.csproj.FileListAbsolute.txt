@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.exe
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.deps.json
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.runtimeconfig.json
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.dll
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\bin\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.pdb
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.AssemblyInfo.cs
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.dll
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.pdb
+C:\Users\acer\source\repos\Факультатив ООП д.з. 1\Факультатив ООП д.з. 1\obj\Debug\netcoreapp3.1\Факультатив ООП д.з. 1.genruntimeconfig.cache

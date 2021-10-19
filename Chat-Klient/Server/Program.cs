@@ -6,7 +6,7 @@ namespace Server
     {
         static void Main()
         {
-            
+            MSG.Chat(DateTime.Now);
         }
     }
 }
